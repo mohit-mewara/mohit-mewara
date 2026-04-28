@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohit Mewara
 
-<!--
-**mohit-mewara/mohit-mewara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Analytics Engineer | dbt | Redshift | SQL
 
-Here are some ideas to get you started:
+I help businesses build clean, reliable data 
+pipelines and turn raw data into useful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tools & Technologies
+**Pipeline** dbt, redshift, fivetran
+**Language** SQL, Python
+**Version Control:** Git, GitHub
+
+-- 
+
+### Connect with me
+- Email: mohitmewara8171@gmail.com
